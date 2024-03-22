@@ -1,0 +1,42 @@
+body {
+  font-family: courier;
+  font-size: 18px;
+  font-weight: 600;
+}
+.ttl2 {
+	font-size: 14px;
+}
+
+.ttl {
+  font-style: Optima;
+  font-size: 55px;
+  font-weight: 600;
+}
+
+
+p {
+  font-size: 20px;
+  font-style: sans-serif;
+  
+}
+ 
+.you {
+  text-align: center;
+    font-size: 25px;
+  
+}
+
+.gh {
+  text-align: center;
+  font-size: 20px
+}
+
+.tui {
+  font-style:courier;
+  
+}
+
+.vid {
+  text-align: center;
+   font-size: 23px;
+}
